@@ -19,7 +19,6 @@
 </div>
 
 ---
-
 <a id="courses"></a>
 <div align="left">
 <img
@@ -97,7 +96,28 @@
     <sub>Управление проектами информационных систем</sub>
   </td>
 </tr>
+
+<tr>
+  <td align="center" valign="top">
+    <a href="https://github.com/Alexandre77777/BigData-Tech">
+      <img src="https://img.shields.io/badge/Big%20Data%20Technologies-161B22?style=for-the-badge&labelColor=0D1117&logo=apachehadoop&logoColor=E6EDF3" />
+    </a><br/>
+    <sub>Технологии анализа больших данных<br>(Apache Spark)</sub>
+  </td>
+
+  <td align="center" valign="top">
+    &nbsp;
+  </td>
+
+  <td align="center" valign="top">
+    <a href="https://github.com/Alexandre77777/ispm_course_materials_second">
+      <img src="https://img.shields.io/badge/ISPM%20Projects%20II-161B22?style=for-the-badge&labelColor=0D1117&logo=notion&logoColor=E6EDF3" />
+    </a><br/>
+    <sub>Продолжение курса: проектная документация ИС</sub>
+  </td>
+</tr>
 </table>
+
 
 ---
 
