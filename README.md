@@ -106,7 +106,10 @@
   </td>
 
   <td align="center" valign="top">
-    &nbsp;
+    <a href="https://github.com/Alexandre77777/geo_python_programming">
+      <img src="https://img.shields.io/badge/Geo%20Python%20Programming-161B22?style=for-the-badge&labelColor=0D1117&logo=openstreetmap&logoColor=E6EDF3" />
+    </a><br/>
+    <sub>Python для анализа пространственных данных</sub>
   </td>
 
   <td align="center" valign="top">
